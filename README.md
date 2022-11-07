@@ -20,3 +20,5 @@ Please see their documentation regarding installation.
 
 If the 'nav_star.csv' file (which contains the positions of the navigational stars) is not present or you 
 would like to update it, just run 'create_csv_nav_stars.py' to recreate it. 
+
+**Please do not use this program for navigation!**
